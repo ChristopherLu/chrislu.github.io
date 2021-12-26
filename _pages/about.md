@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor @ <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics</a>, 
+  <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
 
 profile:
   align: right
