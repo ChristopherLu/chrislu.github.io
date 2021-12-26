@@ -8,10 +8,10 @@ description: Assistant Professor @ <a href="https://www.ed.ac.uk/informatics" ta
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  address: <!-- >
     <p>Informatics Forum</p>
     <p>10 Crichton Street</p>
-    <p>Edinburgh, EH8 9AB</p>
+    <p>Edinburgh, EH8 9AB</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,6 +24,9 @@ I am an Assistant Professor in the School of Informatics at the [University of E
 ====== -->
 
 Broadly, my research interests broadly lie in **cyber-physical systems** (e.g., mobile robots and mixed reality devices) with the goal to drastically increasing their reliability, intelligence and security in the wild. More recently, my research focus is pivoted around how to design **robust spatial perception** solutions for mobile robotics and augmented reality wearables to deal with i. visual degradation (e.g., fog, heavy rain & fog), ii. resources constraints (e.g., payloads, compute & form factor) and iii. malicious faults (e.g., adversarial physical-layer attacks).
+
+**I am looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) to join my group. Drop me an email with your CV if you are interested.** 
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
