@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Assistant Professor @ <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics</a>, 
   <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a> 
