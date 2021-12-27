@@ -1,20 +1,19 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: key publications in reversed chronological order. Full list in [DBLP](https://dblp.org/pid/154/4313.html)
+title: Publications
+description: 
 years: [2021, 2020, 2019, 2018, 2017]
 nav: true
 ---
 
-<div class="publications">
+Only key publications are listed here. The full list can be found in my [DBLP](https://dblp.org/pid/154/4313.html).
 
-<h2 class="year">preprints</h2>
-{% bibliography -f papers -q @*[preprint=true]* %}
+<div class="publications">
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && preprint!=true]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>

@@ -1,11 +1,34 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: as instructor and teaching assistant
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<section>
+  <h4>University of Edinburgh</h4>
+  <ul>
+  <li>
+ <strong>Mobile Robotics</strong>.  Undergraduate/Graduate Course, Fall 2022 (scheduled). </li>
+  <li>
+  <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm"  target="_blank"><strong>Introduction to Vision and Robotics</strong></a>. Undergraduate Course, Fall 2021
+ </li>
+  </ul>
+</section>
 
-Organize your courses by years, topics, or universities, however you like!
+<section>
+  <h4>University of Oxford</h4>
+  <ul>
+	  <li>
+	  	<strong>Human Computer Interaction</strong>.  Undergraduate Course, Fall 2019. </li>
+	  <li>
+	  	<strong>Embedded Software and Systems</strong>.  Graduate Course, Spring 2019. </li>
+	  <li>
+	  	<strong>Sensors and Actuator Networks</strong>.  Graduate Course, Fall 2018. </li>
+	  <li>
+	  	<strong>Internet of Things</strong>.  Graduate Course, Spring 2018. </li>
+	  <li>
+	 	<strong>Mobile Computing</strong>.  Graduate Course, Spring 2017. </li>
+  </ul>
+</section>
