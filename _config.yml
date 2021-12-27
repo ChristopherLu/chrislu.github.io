@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚒 # the emoji used as the favicon
+icon: 🤖 # the emoji used as the favicon
 url: https://ChristopherLu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -79,8 +79,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Digital Mind Twin # your blog must have a name for it to show up in the nav bar
+blog_description: My ramble about everyday technology
 permalink: /blog/:year/:title/
 
 # Pagination
