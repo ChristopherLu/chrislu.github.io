@@ -4,9 +4,10 @@ permalink: /service/
 title: service
 #description: 
 nav: true
+navigation_weight: 30
 ---
 
-I regularly serve for the IoT, AI and Robotics communities. 
+**I regularly serve for the IoT, AI and Robotics communities.** 
 
 - Editorship
     - Associate Editor, [Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai)

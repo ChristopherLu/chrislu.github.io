@@ -16,6 +16,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+navigation_weight: 10
 ---
 
 I am an Assistant Professor in the School of Informatics at the University of Edinburgh. Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford. Prior to Oxford, I received my M.Eng degree from Nanyang Technological University (NTU). 

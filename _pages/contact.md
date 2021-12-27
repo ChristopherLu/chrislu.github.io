@@ -4,6 +4,7 @@ permalink: /contact/
 title: contact
 #description: 
 nav: true
+navigation_weight: 70
 ---
 
 School of Informatics, University of Edinburgh<br>

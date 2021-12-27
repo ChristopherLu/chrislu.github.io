@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: as instructor and teaching assistant
 nav: true
+navigation_weight: 40
 ---
 
 <section>
