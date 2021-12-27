@@ -67,7 +67,7 @@ wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/154/4313.html
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
