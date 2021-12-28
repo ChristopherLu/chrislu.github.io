@@ -7,6 +7,8 @@ nav: true
 navigation_weight: 50
 ---
 
+**I am fortunate to work or have worked with the following students:** 
+
 <section>
   <h4>PhD Students</h4>
   <ul>

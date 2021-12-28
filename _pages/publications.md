@@ -21,12 +21,3 @@ Only recent publications are listed here. The full list can be found in my [DBLP
 {% endfor %}
 
 </div>
-
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
