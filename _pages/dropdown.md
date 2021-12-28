@@ -5,9 +5,12 @@ nav: true
 dropdown: true
 navigation_weight: 60
 children: 
-    - title: contact
-      permalink: /contact/
+    - title: teaching
+      permalink: /teaching/
     - title: divider
     - title: links
       permalink: /links/
+    - title: divider
+    - title: contact
+      permalink: /contact/
 ---

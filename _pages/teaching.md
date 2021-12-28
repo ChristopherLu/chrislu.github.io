@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: as instructor and teaching assistant
-nav: true
+nav: false
 navigation_weight: 40
 ---
 
