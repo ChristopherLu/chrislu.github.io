@@ -37,7 +37,7 @@ navigation_weight: 50
 </section>
 
 <section>
-  <h4>Past Students</h4>
+  <h4>Previous Members</h4>
   <ul>
         <li>
             <strong>Eamon Magdoubi</strong>. MSc, 2019-2020, Graduated w. Distinction
