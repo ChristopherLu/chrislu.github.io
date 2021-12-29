@@ -31,7 +31,7 @@ navigation_weight: 50
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2020 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia</strong></a>. Fall 2021 - present
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia（F)</strong></a>. Fall 2021 - present
         </li>
   </ul>
 </section>
@@ -46,7 +46,7 @@ navigation_weight: 50
             <strong>Mingxuan Liu</strong>. MSc, 2019-2020, Graduated w. Distinction 
         </li>
         <li>
-            <strong>Mi Man(F)</strong>. MSc, 2019-2020, Graduated w. Distinction 
+            <strong>Mi Man (F)</strong>. MSc, 2019-2020, Graduated w. Distinction 
         </li>
   </ul>
 </section>
