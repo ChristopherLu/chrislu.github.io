@@ -11,7 +11,7 @@ navigation_weight: 30
 
 - Editorship
     - Associate Editor, [Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai)
-    - Review Editor, [Frontier in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks#)
+    - Guest Editor, Special Issue of [Future Internet - "Radar-Enabled Contact-Free Sensing in AIoT"](https://www.mdpi.com/journal/futureinternet/special_issues/_aiot)
 
 - Program Committee Member
     - 2022: [IPSN](https://ipsn.acm.org/2022/), [AAAI](https://aaai.org/Conferences/AAAI-22/)
