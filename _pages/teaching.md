@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: as instructor and teaching assistant
+description: as instructor and course organizer
 nav: false
 navigation_weight: 40
 ---

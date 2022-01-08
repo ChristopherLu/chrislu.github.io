@@ -1,19 +1,19 @@
 ---
 layout: page
-permalink: /group/
-title: group
+permalink: /team/
+title: team
 description: 
 nav: true
 navigation_weight: 50
 ---
 
-**I am fortunate to work or have worked with the following students:** 
+**I lead the Mobile Autonomy, Perception and Sensing (MAPS) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members in MAPS:** 
 
 <section>
   <h4>PhD Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2020 - now (Co-supervised with Xiaowei Huang)
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2020 - present (Co-supervised with Xiaowei Huang)
         </li>
         <li>
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
