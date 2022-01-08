@@ -28,7 +28,7 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2020 - present
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2020 - present 
         </li>
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
@@ -37,16 +37,25 @@ navigation_weight: 50
 </section>
 
 <section>
-  <h4>Previous Members</h4>
+  <h4> (Remote) Visitors </h4>
   <ul>
         <li>
-            <strong>Eamon Magdoubi</strong>. MSc, 2019-2020, Graduated w. Distinction
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Pengen Gao</strong></a>. Fall 2020 - present (Huazhong University of Science and Technology)
         </li>
         <li>
-            <strong>Mingxuan Liu</strong>. MSc, 2019-2020, Graduated w. Distinction 
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Dongjiang Cao</strong></a>. Fall 2020 - present (Southeast University)
+        </li>
+  </ul>
+</section>
+
+<section>
+  <h4>Alumni</h4>
+  <ul>
+        <li>
+            <strong>Eamon Magdoubi</strong>. MSc w. Distinction, 2019-2020. Now: MotionWall
         </li>
         <li>
-            <strong>Mi Man(F)</strong>. MSc, 2019-2020, Graduated w. Distinction 
+            <strong>Mingxuan Liu</strong>. MSc w. Distinction, 2019-2020. Now: SAIC MOTOR
         </li>
   </ul>
 </section>
