@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: as instructor and course organizer
+description: as instructor at U of Edinburgh and as TA at U of Oxford
 nav: false
 navigation_weight: 40
 ---
