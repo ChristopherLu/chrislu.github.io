@@ -27,16 +27,17 @@ navigation_weight: 30
 
 - Journal Reviewer
     - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-    - IEEE Transactions on Robotics (TRO)
+    - IEEE Transactions on Robotics (T-RO)
     - IEEE Transactions on Mobile Computing (TMC)
     - IEEE/ACM Transactions on Networking (TON)
     - ACM Transactions on Sensor Networks (TOSN)
+    - IEEE Transactions on Cybernetics (TC-B)
     - IEEE Internet of Things Journal (IoT-J)
+    - IEEE Transactions on Intelligent Transportation Systems (TITS)
     - ACM Transactions on Intelligent Systems and Technology 
     - ACM Transactions on Computing for Healthcare
     - IEEE Computational Intelligence Magazine
     - IEEE Pervasive Computing
-    - IEEE Transactions on Cybernetics
     - IEEE Robotics and Automation Letters (RA-L)
     - Elsevier Neurocomputing
     - Springer Autonomous Robots
