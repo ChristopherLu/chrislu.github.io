@@ -36,7 +36,7 @@ navigation_weight: 50
   </ul>
 </section>
 
-<section>
+<!-- <section>
   <h4> (Remote) Visitors </h4>
   <ul>
         <li>
@@ -46,7 +46,7 @@ navigation_weight: 50
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Dongjiang Cao</strong></a>. Fall 2020 - present (Southeast University)
         </li>
   </ul>
-</section>
+</section> -->
 
 <section>
   <h4>Alumni</h4>
