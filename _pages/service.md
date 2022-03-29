@@ -14,7 +14,7 @@ navigation_weight: 30
     - Guest Editor, Special Issue of [Future Internet - "Radar-Enabled Contact-Free Sensing in AIoT"](https://www.mdpi.com/journal/futureinternet/special_issues/_aiot)
 
 - Program Committee Member
-    - 2022: [SenSys](https://sensys.acm.org/2022/), [IPSN](https://ipsn.acm.org/2022/), [AAAI](https://aaai.org/Conferences/AAAI-22/)
+    - 2022: [SenSys](https://sensys.acm.org/2022/), [IPSN](https://ipsn.acm.org/2022/), [AAAI](https://aaai.org/Conferences/AAAI-22/), [SECON](https://secon2022.ieee-secon.org/)
     - 2021: [SenSys](https://sensys2021.dei.uc.pt/), [AAAI](https://aaai.org/Conferences/AAAI-21/), [BuildSys](http://buildsys.acm.org/2021/), [SECON](https://secon2021.ieee-secon.org/), [MASS](https://eng.auburn.edu/conference/ieee-mass2021/)
     - 2020: [WWW](https://www2020.thewebconf.org/), [BuildSys](http://buildsys.acm.org/2020/), [GPC](https://www.gpc2020.cn/index.html), [CPD @ UbiComp](https://ubicomp-cpd.com/), [FAILSAFE @ EWSN](https://wp.doc.ic.ac.uk/failsafe/), [ML4AD @ NeurIPS](https://ml4ad.github.io/)
 
