@@ -11,7 +11,7 @@ navigation_weight: 40
   <h4>University of Edinburgh</h4>
   <ul>
   <li>
-  <a href="http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10085.htm"  target="_blank"><strong>Introduction to Mobile Robotics</strong>.  Undergraduate/Graduate Course, Fall 2022. </li>
+  <a href="http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10085.htm"  target="_blank"><strong>Introduction to Mobile Robotics</strong></a>. Undergraduate/Graduate Course, Fall 2022. </li>
   <li>
   <a href="http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm"  target="_blank"><strong>Introduction to Vision and Robotics</strong></a>. Undergraduate Course, Fall 2021.
  </li>
