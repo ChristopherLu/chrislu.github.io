@@ -19,7 +19,10 @@ navigation_weight: 50
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://toytiny.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
+        </li>
+        <li>
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
         </li>
   </ul>
 </section>
@@ -28,10 +31,10 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2020 - present 
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhen Luo</strong></a>. Spring 2022 - present
         </li>
   </ul>
 </section>
