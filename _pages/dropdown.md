@@ -1,6 +1,6 @@
 ---
 layout: page
-title: misc
+title: submenus
 nav: true
 dropdown: true
 navigation_weight: 60
