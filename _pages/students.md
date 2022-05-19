@@ -24,6 +24,10 @@ navigation_weight: 50
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
         </li>
+        <li>
+            <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
+        </li>
+        
   </ul>
 </section>
 
