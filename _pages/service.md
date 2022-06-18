@@ -30,6 +30,7 @@ navigation_weight: 30
     - IEEE Transactions on Mobile Computing (TMC)
     - IEEE/ACM Transactions on Networking (TON)
     - ACM Transactions on Sensor Networks (TOSN)
+    - ACM Transactions on Embedded Computing Systems (TECS)
     - IEEE Transactions on Cybernetics (TC-B)
     - IEEE Internet of Things Journal (IoT-J)
     - IEEE Transactions on Intelligent Transportation Systems (TITS)
