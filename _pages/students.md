@@ -40,6 +40,9 @@ navigation_weight: 50
         <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhen Luo</strong></a>. Spring 2022 - present
         </li>
+        <li>
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Tianbo Pan</strong></a>. Fall 2022 - present
+        </li>
   </ul>
 </section>
 
@@ -58,6 +61,9 @@ navigation_weight: 50
 <section>
   <h4>Alumni</h4>
   <ul>
+        <li>
+            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: MSc at UofOxford
+        </li>
         <li>
             <strong>Eamon Magdoubi</strong>. MSc w. Distinction, 2019-2020. Now: MotionWall
         </li>
