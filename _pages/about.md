@@ -24,6 +24,5 @@ I am an Assistant Professor in the School of Informatics at the University of Ed
 Before coming to Edinburgh, I did both my PhD study and post-doctoral in the Department of Computer Science, University of Oxford. Even earlier, I received my M.Eng degree from Nanyang Technological University (NTU). 
 
 
-
-**I am always looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2022&id=495), [Master by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) to join my group. Drop me an email with your CV if you are interested.** 
+**I have one PostDoc position to work on multimodal fusion and robust localization. Please visit the [job description](https://christopherlu.github.io/vacancies/) and drop me an email if you are interested.**
 

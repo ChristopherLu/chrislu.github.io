@@ -12,7 +12,7 @@ navigation_weight: 40
 ---
 ## **POSTDOC POSITION**
 
-We are looking for a creative and motivated postdoc candidate to work on **multimodal fusion for robust localization**. This position can start immediately for one year, with a strong chance to be extended to three years. Past experience in deep neural network based localization, esp. with the graph neural networks, is preferred. The selected candidate will join Dr. Chris Lu's group and team up with other postgraduate students to address real-world localization challenges in GPS-denied and camera-restricted environments. 
+We are looking for a creative and motivated postdoc candidate to work on **multimodal fusion for robust localization**. Past experience in multimodal fusion and/or graph neural networks is a plus. The selected candidate will join Dr. Chris Lu's group and team up with other postgraduate students to address real-world localization challenges in GPS-denied and camera-restricted environments. This position can start immediately for one year with a strong chance to be extended to three years. 
 
 The project is research-oriented and aims to drastically improve the localization robustness in the wild by leveraging multimodal data (IMU, RF and floor plans etc.) and deep neural networks. The research is supported by **Huawei Research Edinburgh** with which the selected candidate will work closely and benefit from their strong engineering support and a large amount of labeled data collected in the wild.
 
@@ -21,7 +21,7 @@ Interested candidates may refer to our publications to understand the research w
 [2]. <a href="https://arxiv.org/pdf/2006.02266.pdf">milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion</a>
 [3]. <a href="https://arxiv.org/pdf/2104.07196.pdf">Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks</a>
 
-**Application deadline**: 5pm (UK time) on 15 August 2022. Please e-mail me (xiaoxuan.lu@ed.ac.uk) your CV with the full publication list and including a brief statement of project experience with the title [Prospective Postdoc]. 
+**Application deadline: 5pm (UK time) on 15 August 2022**. Please e-mail me (xiaoxuan.lu@ed.ac.uk) your CV with the full publication list and including a brief statement of project experience with the title **[Prospective Postdoc]**. 
 
 ---
 ## **PHD/MScR POSITION**
