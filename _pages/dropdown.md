@@ -8,6 +8,9 @@ children:
     - title: teaching
       permalink: /teaching/
     - title: divider
+    - title: vacancies
+      permalink: /vacancies/	
+    - title: divider
     - title: links
       permalink: /links/
     - title: divider
