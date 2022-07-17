@@ -12,6 +12,7 @@ navigation_weight: 30
 - Editorship
     - Associate Editor, [Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai)
     - Guest Editor, Special Issue of [Future Internet - "Radar-Enabled Contact-Free Sensing in AIoT"](https://www.mdpi.com/journal/futureinternet/special_issues/_aiot)
+    - Guest Editor, Special Issue of [ACM Transactions on Sensor Networks (TOSN) - "Contact-free Smart Sensing in AIoT"](https://dl.acm.org/pb-assets/static_journal_pages/tosn/pdf/TOSN_CFP_Contact-free-Smart-Sensing-in-AIoT-1657653812093.pdf)
 
 - Program Committee Member
     - 2023: [MOST](http://ieeemobility.org/)
