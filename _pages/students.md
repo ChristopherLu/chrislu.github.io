@@ -19,10 +19,10 @@ navigation_weight: 50
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
         </li>
         <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
@@ -35,28 +35,31 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhen Luo</strong></a>. Spring 2022 - present
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Zhen Luo</strong></a>. Spring 2022 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Tianbo Pan</strong></a>. Fall 2022 - present
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Tianbo Pan</strong></a>. Fall 2022 - present
         </li>
   </ul>
 </section>
 
-<!-- <section>
-  <h4> (Remote) Visitors </h4>
+<section>
+  <h4> Undergraduate Students </h4>
   <ul>
         <li>
-            <a href="https://qqqgpe.github.io/"  target="_blank"><strong>Pengen Gao</strong></a>. Fall 2020 - present (Huazhong University of Science and Technology)
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Zhijun Pan</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Dongjiang Cao</strong></a>. Fall 2020 - present (Southeast University)
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Hantao Zhong</strong></a>. Summer 2022 - present
+        </li>
+        <li>
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Xiangyu Wen</strong></a>. Summer 2022 - present
         </li>
   </ul>
-</section> -->
+</section>
 
 <section>
   <h4>Alumni</h4>
