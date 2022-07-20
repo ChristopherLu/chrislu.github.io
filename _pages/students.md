@@ -22,6 +22,9 @@ navigation_weight: 50
             <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
         </li>
         <li>
+            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
+        </li>
+        <li>
             <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
         </li>
         <li>
@@ -35,13 +38,13 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Qiyue Xia(F)</strong></a>. Fall 2021 - present
+            <strong>Qiyue Xia(F)</strong>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Zhen Luo</strong></a>. Spring 2022 - present
+            <strong>Zhen Luo</strong>. Spring 2022 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Tianbo Pan</strong></a>. Fall 2022 - present
+            <strong>Tianbo Pan</strong>. Fall 2022 - present
         </li>
   </ul>
 </section>
@@ -50,13 +53,13 @@ navigation_weight: 50
   <h4> Undergraduate Students </h4>
   <ul>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Zhijun Pan</strong></a>. Fall 2021 - present
+            <strong>Zhijun Pan</strong>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Hantao Zhong</strong></a>. Summer 2022 - present
+            <strong>Hantao Zhong</strong>. Summer 2022 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Xiangyu Wen</strong></a>. Summer 2022 - present
+            <strong>Xiangyu Wen</strong>. Summer 2022 - present
         </li>
   </ul>
 </section>
@@ -65,10 +68,7 @@ navigation_weight: 50
   <h4>Alumni</h4>
   <ul>
         <li>
-            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: MSc at UofOxford
-        </li>
-        <li>
-            <strong>Eamon Magdoubi</strong>. MSc w. Distinction, 2019-2020. Now: MotionWall
+            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: MSc at U of Oxford
         </li>
         <li>
             <strong>Mingxuan Liu</strong>. MSc w. Distinction, 2019-2020. Now: SAIC MOTOR
