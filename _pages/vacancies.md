@@ -21,7 +21,7 @@ Interested candidates may refer to our publications to understand the research w
 [2]. <a href="https://arxiv.org/pdf/2006.02266.pdf">milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion</a>
 [3]. <a href="https://arxiv.org/pdf/2104.07196.pdf">Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks</a>
 
-**Application deadline: 5pm (UK time) on 15 August 2022**. Please e-mail me (xiaoxuan.lu@ed.ac.uk) your CV with the full publication list and including a brief statement of project experience with the title **[Prospective Postdoc]**. 
+**Application deadline: 5pm (UK time) on 15 August 2022**. Please e-mail me (xiaoxuan.lu@ed.ac.uk) your CV with the full publication list and including a brief statement of project experience with the title **[Prospective Postdoc]**. Instead, you can also apply this position directly using this <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4847">link</a>.
 
 ---
 ## **PHD/MSCR POSITION**
