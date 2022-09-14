@@ -43,9 +43,6 @@ navigation_weight: 50
         <li>
             <strong>Zhen Luo</strong>. Spring 2022 - present
         </li>
-        <li>
-            <strong>Tianbo Pan</strong>. Fall 2022 - present
-        </li>
   </ul>
 </section>
 
