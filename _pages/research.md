@@ -26,7 +26,7 @@ Automotive radars, aka. single-chip mmWave radars, have been long known for thei
 Research Output: [<a href="https://arxiv.org/abs/2203.01137">RA-L/IROS'2022</a>], [<a href="https://arxiv.org/abs/2203.01851">IROS'2022a</a>], [<a href="http://arxiv.org/abs/2112.02469">RADA(pre-print)</a>], [<a href="https://intranet.csc.liv.ac.uk/~ramdrop/autoplace.html">ICRA'2022a</a>], [<a href="https://qqqgpe.github.io/2022-02-11/DC-Loc">ICRA'2022b</a>], [<a href="https://arxiv.org/abs/1912.13077">TNNLS'2022</a>], [<a href="https://arxiv.org/pdf/1908.03918.pdf">TNNLS'2021</a>], [<a href="http://arxiv.org/abs/1909.03557">AAAI'2020</a>], [<a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.html">CVPR'2019</a>]
 
 ---
-## **Robust and Rapid Spatial Awareness Support for First Responders**
+## **Robust and Rapid Sense Augmentation Support for First Responders**
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,6 +40,16 @@ Research Output: [<a href="https://arxiv.org/abs/2203.01137">RA-L/IROS'2022</a>]
 From the equator to the Arctic, fire disasters are going to happen more often as a result of anthropogenic climate change. This consequently results in more frequent duty calls of firefighters. However, at the present, firefighting is still regarded as one of the most strenuous and dangerous jobs in the world. A fire incident is often accompanied by a variety of airborne obscurants (e.g., smoke and dust) and poor illumination, making firefighters difficult to navigate themselves and understand the fire ground. We aim to design robust yet real-time **localization, mapping and scene understanding** services that can be directly integrated into the **augmented reality wearables and firefighting robots**. These support systems will, in turn, enhance firefighters' operational capacity and safety in visually-degraded conditions and on resource-constrained platforms.
 
 Research Output: [<a href="https://arxiv.org/abs/2104.07196">TR-O'2022</a>], [<a href="https://arxiv.org/abs/2206.01589">IROS'2022b</a>], [<a href="https://arxiv.org/pdf/2112.05665.pdf">CPS-ER'2022</a>], [<a href="https://ieeexplore.ieee.org/document/9561738">ICRA'2021</a>], [<a href="https://arxiv.org/abs/2006.02266">SenSys'2020</a>], [<a href="https://arxiv.org/abs/1911.00398">MobiSys'2020</a>], [<a href="https://ieeexplore.ieee.org/document/8968430">RA-L'2020</a>]
+
+Media Exposure: [BBC ONE](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27809565), [BBC Good
+ Morning Scotland](https://www.bbc.co.uk/sounds/play/m001cg5x), [STV](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27804277), [Planet Radio](https://planetradio.co.uk/borders/local/news/firefighters-smart-helmets-heriot-watt/), [Sky News](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27806734), [Evening
+ Standard Tech & Science Daily](https://podcasts.apple.com/gb/podcast/ai-smart-helmets-give-firefighters-superhero-ability/id1516299890?i=1000580906865), [Scottish
+ Daily Express](https://www.scottishdailyexpress.co.uk/news/scottish-news/firefighters-could-soon-smart-helmets-28099105), [The Independent](https://www.independent.co.uk/news/uk/experts-scotland-edinburgh-innovation-university-of-edinburgh-b2176943.html), [Scottish
+ Field](https://www.scottishfield.co.uk/living/firefighters-get-hi-tech-help-from-robotarium/), [Scottish Daily Mail](https://www.scottishdailyexpress.co.uk/news/scottish-news/firefighters-could-soon-smart-helmets-28099105), [Italy
+ 24 News](https://news.italy-24.com/trends/115673/Helmets-with-artificial-intelligence-to-help-firefighters.html), [Irish
+ News](https://www.irishnews.com/magazine/technology/2022/09/28/news/firefighters_could_soon_have_smart_helmets_to_help_locate_blaze_victims-2842709/), [Engineering
+ & Technology](https://eandt.theiet.org/content/articles/2022/09/smart-helmets-could-help-firefighters-locate-blaze-victims/), [Digit
+ News](https://www.digit.fyi/scots-firefighters-national-robotarium-smart-helmet/)
 
 ---
 ## **AI-empowered, Privacy-respectful Human Sensing**
