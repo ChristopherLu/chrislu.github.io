@@ -41,7 +41,7 @@ From the equator to the Arctic, fire disasters are going to happen more often as
 
 Research Output: [<a href="https://arxiv.org/abs/2104.07196">TR-O'2022</a>], [<a href="https://arxiv.org/abs/2206.01589">IROS'2022b</a>], [<a href="https://arxiv.org/pdf/2112.05665.pdf">CPS-ER'2022</a>], [<a href="https://ieeexplore.ieee.org/document/9561738">ICRA'2021</a>], [<a href="https://arxiv.org/abs/2006.02266">SenSys'2020</a>], [<a href="https://arxiv.org/abs/1911.00398">MobiSys'2020</a>], [<a href="https://ieeexplore.ieee.org/document/8968430">RA-L'2020</a>]
 
-Media Exposure: [BBC ONE](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27809565), [BBC Good
+Media Exposure: [BBC News](https://www.bbc.co.uk/news/av/uk-scotland-63075749), [BBC Good
  Morning Scotland](https://www.bbc.co.uk/sounds/play/m001cg5x), [STV](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27804277), [Planet Radio](https://planetradio.co.uk/borders/local/news/firefighters-smart-helmets-heriot-watt/), [Sky News](http://www.pressdata.co.uk/viewbroadcast.asp?a_id=27806734), [Evening
  Standard Tech & Science Daily](https://podcasts.apple.com/gb/podcast/ai-smart-helmets-give-firefighters-superhero-ability/id1516299890?i=1000580906865), [Scottish
  Daily Express](https://www.scottishdailyexpress.co.uk/news/scottish-news/firefighters-could-soon-smart-helmets-28099105), [The Independent](https://www.independent.co.uk/news/uk/experts-scotland-edinburgh-innovation-university-of-edinburgh-b2176943.html), [Scottish
