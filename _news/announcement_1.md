@@ -12,4 +12,4 @@ Our embedded AI enabled firefighting helmet was covered by more than 20 top-tier
  24 News](https://news.italy-24.com/trends/115673/Helmets-with-artificial-intelligence-to-help-firefighters.html), [Irish
  News](https://www.irishnews.com/magazine/technology/2022/09/28/news/firefighters_could_soon_have_smart_helmets_to_help_locate_blaze_victims-2842709/), [Engineering
  & Technology](https://eandt.theiet.org/content/articles/2022/09/smart-helmets-could-help-firefighters-locate-blaze-victims/), [Digit
- News](https://www.digit.fyi/scots-firefighters-national-robotarium-smart-helmet/)
+ News](https://www.digit.fyi/scots-firefighters-national-robotarium-smart-helmet/), [Edinburgh University Homepage](https://www.ed.ac.uk/news/2022/ai-fire-helmet-could-help-save-lives).
