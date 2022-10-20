@@ -47,9 +47,6 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <strong>Qiyue Xia(F)</strong>. Fall 2021 - present
-        </li>
-        <li>
             <strong>Zhen Luo</strong>. Spring 2022 - present
         </li>
   </ul>
@@ -73,6 +70,9 @@ navigation_weight: 50
 <section>
   <h4>Alumni</h4>
   <ul>
+        <li>
+            <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: RA at U of Edinburgh
+        </li>
         <li>
             <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: MSc at U of Oxford
         </li>
