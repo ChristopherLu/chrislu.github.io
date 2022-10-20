@@ -10,6 +10,15 @@ navigation_weight: 50
 **I lead the Mobile Autonomy, Perception and Sensing (MAPS) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
 
 <section>
+  <h4>PostDoc</h4>
+  <ul>
+        <li>
+            <a href="https://github.com/LiDuanAtGlasgow"  target="_blank"><strong>(Ken) Li Duan</strong></a>. October 2022 - present 
+        </li>
+  </ul>
+</section>
+
+<section>
   <h4>PhD Students</h4>
   <ul>
         <li>
