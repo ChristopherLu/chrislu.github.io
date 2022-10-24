@@ -13,7 +13,7 @@ navigation_weight: 50
   <h4>PostDoc</h4>
   <ul>
         <li>
-            <a href="https://github.com/LiDuanAtGlasgow"  target="_blank"><strong>(Ken) Li Duan</strong></a>. October 2022 - present 
+            <a href="https://liduanatglasgow.github.io/liduan/"  target="_blank"><strong>(Ken) Li Duan</strong></a>. October 2022 - present 
         </li>
   </ul>
 </section>
@@ -71,10 +71,10 @@ navigation_weight: 50
   <h4>Alumni</h4>
   <ul>
         <li>
-            <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: RA at U of Edinburgh
+            <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
         </li>
         <li>
-            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: MSc at U of Oxford
+            <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: U of Oxford
         </li>
         <li>
             <strong>Mingxuan Liu</strong>. MSc w. Distinction, 2019-2020. Now: SAIC MOTOR
