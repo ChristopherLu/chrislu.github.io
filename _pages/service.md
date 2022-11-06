@@ -12,7 +12,6 @@ navigation_weight: 30
 - Editorship
     - Associate Editor, [IEEE International Conference on Robotics and Automation (ICRA'23)](https://www.icra2023.org/)
     - Associate Editor, [Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai)
-    - Guest Editor, Special Issue of [Future Internet - "Radar-Enabled Contact-Free Sensing in AIoT"](https://www.mdpi.com/journal/futureinternet/special_issues/_aiot)
     - Guest Editor, Special Issue of [ACM Transactions on Sensor Networks (TOSN) - "Contact-free Smart Sensing in AIoT"](https://dl.acm.org/pb-assets/static_journal_pages/tosn/pdf/TOSN_CFP_Contact-free-Smart-Sensing-in-AIoT-1657653812093.pdf)
 
 - Program Committee Member
@@ -22,10 +21,10 @@ navigation_weight: 30
     - 2020: [WWW](https://www2020.thewebconf.org/), [BuildSys](http://buildsys.acm.org/2020/), [GPC](https://www.gpc2020.cn/index.html), [CPD @ UbiComp](https://ubicomp-cpd.com/), [FAILSAFE @ EWSN](https://wp.doc.ic.ac.uk/failsafe/), [ML4AD @ NeurIPS](https://ml4ad.github.io/)
 
 - Conference Reviewer
+    - 2023: IEEE INFOCOM
     - 2022: IEEE ICRA, IEEE IROS, ACM ISWC
     - 2021: IEEE/CVF CVPR, IEEE ICRA
     - 2020: ACM UbiComp, IEEE/ASME AIM, IEEE CASE, IEEE ICRA 
-    - 2019: ACM UbiComp, ACM CHI, IEEE ICC, IJCAI, IEEE IROS
 
 - Journal Reviewer
     - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
