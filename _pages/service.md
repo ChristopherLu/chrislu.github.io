@@ -43,6 +43,7 @@ navigation_weight: 30
     - IEEE Robotics and Automation Letters (RA-L)
     - Elsevier Neurocomputing
     - Springer Autonomous Robots
+    - Field Robotics
     - MDPI Sensors
 
 - Organization
