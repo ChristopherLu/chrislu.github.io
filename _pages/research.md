@@ -52,7 +52,7 @@ Media Exposure: [BBC News](https://www.bbc.co.uk/news/av/uk-scotland-63075749), 
  News](https://www.digit.fyi/scots-firefighters-national-robotarium-smart-helmet/)
 
 ---
-## **AI-empowered, Privacy-respectful Human Sensing**
+## **Privacy-respectful Low-Cost Human Sensing**
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,7 +60,7 @@ Media Exposure: [BBC News](https://www.bbc.co.uk/news/av/uk-scotland-63075749), 
     </div>
 </div>
 
-Despite a plethora of methods being proposed in the last decades, today's human sensing (e.g., who, where, and what activities) systems are mostly dominant by RGB camera-based approaches that suffer from the adverse lighting conditions or privacy concerns in domestic environments. On the other side of the problem, unlike designing methods for cameras, it is much more challenging for us to design intuitive algorithms for **privacy-respectful sensors, e.g., mmWave, WiFi, UWB, BLE and inertial measurement units** - as humans do not use these modalities to perceive the world, nor relate our everyday experience in algorithm development for them. By exploiting the recent advances in machine learning, we advocate **AI-empowered methods** to model the data from these sensors and push their limits to the envelope. A related question also of our interest is - beyond the coarse-grained localization, is it possible to achieve fine-grained pose estimation (e.g., gesture and hand movement etc.) with these 'underdog' sensors? 
+Despite a plethora of methods being proposed in the last decades, today's human sensing (e.g., who, where, and what activities) systems are mostly dominant by RGB camera-based approaches that suffer from the adverse lighting conditions or privacy concerns in domestic environments. On the other side of the problem, unlike designing methods for cameras, it is much more challenging for us to find design heuristics for **low-resolution sensors, e.g., mmWave, WiFi, UWB, BLE and inertial measurement units** - as humans do not use these modalities to perceive the world, nor relate our everyday experience in improving the algorithm for these sensors. By exploiting the recent advances in machine learning, we advocate **AI-empowered methods** to model the data from these sensors and push their limits to the envelope. A related question also of our interest is - beyond the coarse-grained localization, is it possible to achieve fine-grained pose estimation (e.g., gesture and hand movement etc.) with these low-cost and low-resolution sensors? 
 
 Research Output: [<a href="https://arxiv.org/pdf/2207.07896.pdf">UbiComp'2022</a>], [<a href="https://arxiv.org/pdf/2208.14326.pdf">IoT-J'2022</a>],[<a href="https://arxiv.org/abs/2103.01055">ICCV'2021</a>], [<a href="http://arxiv.org/abs/2111.03976">CubeLearn(preprint)</a>], [<a href="https://ieeexplore.ieee.org/document/8937008">TMC'2021</a>], [<a href="https://ieeexplore.ieee.org/document/9547669">TNNLS'2021</a>], [<a href="https://doi.org/10.1109/ICRA40945.2020.9197437">ICRA'2020</a>], [<a href="https://ieeexplore.ieee.org/document/8402111">TMC'2019</a>], [<a href="https://doi.org/10.1609/aaai.v33i01.33018009">AAAI'2019</a>], [<a href="https://doi.org/10.1109/DCOSS.2019.00028">DCOSS'2019</a>], [<a href="http://arxiv.org/abs/1802.02209">AAAI'2018</a>], [<a href="http://www.cs.ox.ac.uk/files/10769/%5BMobiCom2018%5Demr_slam.pdf">MobiCom'2018</a>], [<a href="https://doi.org/10.1109/TWC.2015.2487963">TWC'2016</a>]
 
