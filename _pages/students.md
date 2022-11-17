@@ -35,6 +35,15 @@ navigation_weight: 50
 </section>
 
 <section>
+  <h4> RA </h4>
+  <ul>
+        <li>
+            <strong>Qiyue Xia</strong>. Fall 2022 - present
+        </li>
+  </ul>
+</section>
+
+<section>
   <h4> Master by Research Students</h4>
   <ul>
         <li>
