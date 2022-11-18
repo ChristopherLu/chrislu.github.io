@@ -35,7 +35,7 @@ navigation_weight: 50
 </section>
 
 <section>
-  <h4> RA </h4>
+  <h4> PDRA </h4>
   <ul>
         <li>
             <strong>Qiyue Xia</strong>. Fall 2022 - present
