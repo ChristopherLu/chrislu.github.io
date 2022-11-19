@@ -70,9 +70,9 @@ navigation_weight: 50
 <section>
   <h4>Alumni</h4>
   <ul>
-        <li>
+        <!-- <li>
             <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
-        </li>
+        </li> -->
         <li>
             <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: U of Oxford
         </li>
