@@ -7,7 +7,7 @@ nav: true
 navigation_weight: 50
 ---
 
-**I lead the Mobile Autonomy, Perception and Sensing (MAPS) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
+**I lead the Mobile Autonomy, Perception and Sensing ([MAPS](https://maps-lab.github.io/)) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
 
 <section>
   <h4>PhD Students</h4>
@@ -35,7 +35,7 @@ navigation_weight: 50
 </section>
 
 <section>
-  <h4> PDRA </h4>
+  <h4> Research Assistant </h4>
   <ul>
         <li>
             <strong>Qiyue Xia</strong>. Fall 2022 - present
