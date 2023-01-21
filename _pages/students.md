@@ -19,13 +19,13 @@ navigation_weight: 50
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
+            <a href="https://djning.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
+            <a href="https://uk.linkedin.com/in/jiajun-li-316037223"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
         </li>
         <li>
-            <a href="https://christopherlu.github.io/team/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
+            <a href="https://https://peizeli.me/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
         </li>
         <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
