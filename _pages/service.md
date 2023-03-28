@@ -47,6 +47,7 @@ navigation_weight: 30
     - MDPI Sensors
 
 - Organization
+    - 2023: [SMARTCOMP](https://smartcomp.isis.vanderbilt.edu/) - PhD Forum Chair
     - 2022: [MobiUK](http://mobiuk.org/2022/) - Organising Panel
     - 2021: [SenSys](https://sensys2021.dei.uc.pt/) - Session Chair, [ICRA](https://www.ieee-icra.org/) - Session Chair, [SECON](https://secon2021.ieee-secon.org/) - Session Chair
     - 2020: [BuildSys](http://buildsys.acm.org/2020/) - Publicity Chair, [WWW](https://www2020.thewebconf.org/) - Session Chair, [SenSys PhD Forum](http://sensys.acm.org/2020/dc/) - Panelist
