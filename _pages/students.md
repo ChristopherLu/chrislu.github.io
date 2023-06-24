@@ -22,7 +22,7 @@ navigation_weight: 50
             <a href="https://djning.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
         </li>
         <li>
-            <a href="https://uk.linkedin.com/in/jiajun-li-316037223"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
         </li>
         <li>
             <a href="https://peizeli.me/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
@@ -40,7 +40,7 @@ navigation_weight: 50
   <h4> PostDoc </h4>
   <ul>
         <li>
-            <a href="https://ramdrop.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. June 2023 - present
+            <a href="https://ramdrop.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2023 - present
         </li>
   </ul>
 </section>
