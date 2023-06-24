@@ -31,7 +31,7 @@ navigation_weight: 50
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
         </li>
         <li>
-        <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang (Visiting PhD from PolyU)</strong></a>
+        <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang </strong></a>. Summer 2023 - present (Visiting PhD from PolyU)
         </li>      
   </ul>
 </section>
