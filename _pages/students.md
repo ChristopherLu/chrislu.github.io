@@ -58,13 +58,13 @@ navigation_weight: 50
   <h4> Undergraduate Students </h4>
   <ul>
         <li>
-            <strong>Zhijun Pan</strong>. Fall 2021 - present
+            <strong>Zhekai Duan</strong>. Summer 2023 - present
         </li>
         <li>
-            <strong>Hantao Zhong</strong>. Summer 2022 - present
+            <strong>Lawrence Zhu</strong>. Summer 2023 - present
         </li>
         <li>
-            <strong>Xiangyu Wen</strong>. Summer 2022 - present
+            <strong>Xinyuan Cui</strong>. Summer 2023 - present
         </li>
   </ul>
 </section>
