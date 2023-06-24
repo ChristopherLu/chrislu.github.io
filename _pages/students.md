@@ -12,9 +12,9 @@ navigation_weight: 50
 <section>
   <h4>PhD Students</h4>
   <ul>
-        <li>
+        <!-- <li>
             <a href="https://ramdrop.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2020 - present (Co-supervised with Xiaowei Huang)
-        </li>
+        </li> -->
         <li>
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
@@ -30,15 +30,17 @@ navigation_weight: 50
         <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
         </li>
-        
+        <li>
+        <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang (Visiting PhD from PolyU)</strong></a>
+        </li>      
   </ul>
 </section>
 
 <section>
-  <h4> Research Assistant </h4>
+  <h4> PostDoc </h4>
   <ul>
         <li>
-            <strong>Qiyue Xia</strong>. Fall 2022 - present
+            <a href="https://ramdrop.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. June 2023 - present
         </li>
   </ul>
 </section>
@@ -47,7 +49,7 @@ navigation_weight: 50
   <h4> Master by Research Students</h4>
   <ul>
         <li>
-            <strong>Zhen Luo</strong>. Spring 2022 - present
+            <strong>Xiangyu Wen</strong>. Fall 2023 - present
         </li>
   </ul>
 </section>
@@ -67,12 +69,28 @@ navigation_weight: 50
   </ul>
 </section>
 
+<!-- <section>
+  <h4> Research Visitor </h4>
+  <ul>
+        <li>
+            <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang (PhD)</strong></a>. May 2023 - present
+        </li>
+  </ul>
+</section> -->
+
+
 <section>
   <h4>Alumni</h4>
   <ul>
-        <!-- <li>
+        <li>
+            <strong>Ivan Zhong</strong>. BSc. w. Distinction, 2022-2023. Now: U of Cambridge.
+        </li>
+        <li>
+            <strong>Zhen Luo</strong>. MSc (Research), 2022-2023. Now: SUSTech.
+        </li>
+        <li>
             <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
-        </li> -->
+        </li>
         <li>
             <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: U of Oxford
         </li>
