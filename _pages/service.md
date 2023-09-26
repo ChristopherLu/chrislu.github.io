@@ -10,7 +10,7 @@ navigation_weight: 30
 **I regularly serve for the IoT, AI and Robotics communities.** 
 
 - Editorship
-    - Associate Editor, [IEEE International Conference on Robotics and Automation (ICRA'23)](https://www.icra2023.org/)
+    - Associate Editor, [IEEE International Conference on Robotics and Automation (ICRA)](https://www.icra2024.org/), 2022, 2023
     - Associate Editor, [Annual Review of Artificial Intelligence](https://www.worldscientific.com/worldscinet/wsarai)
     - Guest Editor, Special Issue of [ACM Transactions on Sensor Networks (TOSN) - "Contact-free Smart Sensing in AIoT"](https://dl.acm.org/pb-assets/static_journal_pages/tosn/pdf/TOSN_CFP_Contact-free-Smart-Sensing-in-AIoT-1657653812093.pdf)
 

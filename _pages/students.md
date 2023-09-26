@@ -28,20 +28,11 @@ navigation_weight: 50
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
         <li>
-            <a href="https://djning.github.io/"  target="_blank"><strong>Jianning Deng</strong></a>. Spring 2022 - present
-        </li>
-        <li>
             <a href="https://christopherlu.github.io/"  target="_blank"><strong>Jiajun Li</strong></a>. Spring 2022 - present (Co-supervised with Frederic Bosche)
         </li>
         <li>
-            <a href="https://peizeli.me/"  target="_blank"><strong>Peize Li</strong></a>. Fall 2022 - present
-        </li>
-        <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
-        </li>
-        <li>
-        <a href="https://www.firelabxy.com/tianhang-zhang"  target="_blank"><strong>Tianhang Zhang </strong></a>. Summer 2023 - present (Visiting PhD from PolyU)
-        </li>      
+        </li>  
   </ul>
 </section>
 
@@ -62,6 +53,12 @@ navigation_weight: 50
         </li>
         <li>
             <strong>Lawrence Zhu</strong>. Summer 2023 - present
+        </li>
+        <li>
+            <strong>Haobo Yang</strong>. Summer 2023 - present
+        </li>
+        <li>
+            <strong>Ao Shen</strong>. Summer 2023 - present
         </li>
         <li>
             <strong>Xinyuan Cui</strong>. Summer 2023 - present
@@ -86,16 +83,19 @@ navigation_weight: 50
             <strong>Ivan Zhong</strong>. BSc. w. Distinction, 2022-2023. Now: U of Cambridge.
         </li>
         <li>
+            <strong>Zhijun Pan</strong>. BSc. w. Distinction, 2022-2023. Now: Royal College of Art.
+        </li>
+        <li>
             <strong>Zhen Luo</strong>. MSc (Research), 2022-2023. Now: SUSTech.
         </li>
         <li>
             <strong>Qiyue Xia(F)</strong>. MSc (Research) w. Distinction, 2021-2022. Now: U of Edinburgh
         </li>
-        <li>
+<!--         <li>
             <strong>Nout Kleef</strong>. BSc. w. Distinction, 2021-2022. Now: U of Oxford
         </li>
         <li>
             <strong>Mingxuan Liu</strong>. MSc w. Distinction, 2019-2020. Now: SAIC MOTOR
-        </li>
+        </li> -->
   </ul>
 </section>
