@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 navigation_weight: 10
 ---
 
-I am an Assistant Professor at the University of Edinburgh's School of Informatics, where I delve into the dynamic field of **embodied AI**. My expertise encompasses developing autonomous vehicles and mixed/augmented reality (MR/AR) devices, with a keen focus on elevating their spatial perception in 3D environments. My research unfolds across three pivotal dimensions:
-1. **Pose Estimation** – Determining the precise orientation and position of objects in space.
-2. **Mapping and Reconstruction** – Creating detailed spatial representations of environments.
+I am an Assistant Professor at the University of Edinburgh's School of Informatics, where I delve into the dynamic field of **embodied AI**. My expertise encompasses developing autonomous vehicles and mixed/augmented reality (MR/AR) devices, with a keen focus on elevating their spatial perception when moving in 3D environments. My research unfolds across three pivotal dimensions:
+1. **Pose Estimation** – Determining the orientation and position of moving agents in space.
+2. **Mapping and Reconstruction** – Creating detailed and expressive spatial representations of environments.
 3. **Scene Understanding** – Interpreting and making sense of complex scenes.
 
 At the core of my research is tackling real-world **robustness** challenges imposed on spatial perception. This includes overcoming hurdles like visual degradation, navigating the limitations of available resources, and handling unpredictable, out-of-distribution samples. Discover more about my research endeavours on my [research page](https://christopherlu.github.io/research/).
