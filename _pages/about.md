@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 navigation_weight: 10
 ---
 
-I am an Associate Professor at the University College London (UCL)'s, where I delve into the dynamic field of **embodied AI**. My expertise encompasses developing autonomous vehicles and mixed/augmented reality (MR/AR) devices, with a keen focus on elevating their spatial perception when moving in 3D environments. My research unfolds across three pivotal dimensions:
+I am an Associate Professor at the Department of Computer Science, University College London (UCL). I delve into the dynamic field of **embodied AI**. My expertise encompasses developing autonomous vehicles and mixed/augmented reality (MR/AR) devices, with a keen focus on elevating their spatial perception when moving in 3D environments. My research unfolds across three pivotal dimensions:
 1. **Pose Estimation** – Determining the orientation and position of moving agents in space.
 2. **Mapping and Reconstruction** – Creating detailed and expressive spatial representations of environments.
 3. **Scene Understanding** – Interpreting and making sense of complex scenes.
