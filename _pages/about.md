@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-description: Associate Professor @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">Department of Computer Science</a>, 
-  <a href="https://www.ed.ac.uk" target="_blank">University College London</a> 
+description: Associate Professor @ <a href="https://www.ucl.ac.uk/computer-science/ucl-computer-science" target="_blank">Department of Computer Science</a>, 
+  <a href="https://www.ucl.ac.uk" target="_blank">University College London</a> 
 
 profile:
   align: right
