@@ -7,7 +7,5 @@ nav: false
 navigation_weight: 70
 ---
 
-Office: IF-1.27A, School of Informatics, University of Edinburgh<br>
-Address: Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB<br>
-Tel: +44 (0) 131 650 4588<br>
-Email: xiaoxuan.lu [at] ed.ac.uk
+Address: 66-72 Gower Street, London, WC1E 6EA<br>
+Email: xiaoxuan.lu [at] ucl.ac.uk
