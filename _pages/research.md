@@ -8,6 +8,16 @@ navigation_weight: 15
 ---
 
 ---
+## **Scaling Visual Foundation Models for Enhanced Perception in Embodied Agents**
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/scale_foundation_models.png" title="Example Submodular Settings" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Scaling large foundation models (e.g., CLIP, DINO and SAM) to local compute holds the promise of revolutionizing how embodied agents, such as robots, AR, and IoT devices, interact with and comprehend their environments. At the heart of this endeavor is the integration of advanced visual and visual-language understanding capabilities into these agents, enabling them to interpret and respond to the complex, dynamic world around them. Recent advancements in AI and machine learning have paved the way for such models to be adapted for use in real-world settings, where they can offer unparalleled context-awareness in a zero-shot way. However, deploying these foundation models in diverse and often unpredictable environments poses significant challenges. These include ensuring generalization across different sensors carried by the agents, optimizing for computational efficiency on limited hardware, and achieving seamless interaction with human users and other machines. In our research, we explore the full spectrum of these challenges, from adapting the models for efficient real-time processing to enhancing their understanding across different sensor inputs. 
+
 ## **Robust Spatial Perception for Autonomous Vehicles in the Wild**
 
 <div class="row justify-content-sm-center">
