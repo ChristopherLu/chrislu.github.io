@@ -20,7 +20,6 @@ Scaling large foundation models (e.g., CLIP, DINO and SAM) to local compute hold
 
 Research Output: [<a href="https://arxiv.org/abs/2403.04908">VL-Egde</a>],[<a href="https://tsagkas.github.io/click2grasp/">Clip2Grasp</a>], [<a href="https://tsagkas.github.io/vl-fields/">ICRA-W'2023</a>]
 
-
 ## **Robust Spatial Perception for Autonomous Vehicles in the Wild**
 
 <div class="row justify-content-sm-center">
@@ -44,7 +43,7 @@ Research Output: [<a href="https://arxiv.org/abs/2309.09737">ICRA'2024a</a>], [<
 
 Despite a plethora methods being proposed over recent decades, today's human sensing systems — primarily those designed to track location and monitor activities — often rely on RGB cameras. These methods encounter difficulties in adverse lighting conditions and raise increasing privacy concerns in domestic environments. Moving away from camera-centric solutions, the challenge intensifies when designing for **low-resolution sensors, such as mmWave, WiFi, UWB, BLE, and inertial measurement units**. This complexity arises because humans do not naturally interact with these modalities, complicating the application of our everyday experiences to improve algorithms for these sensors. Leveraging the latest advancements in machine learning, we advocate for **AI-empowered methods** to analyze data from these sensors, extending their utility. Our research also delves into whether these low-cost, low-resolution sensors can be utilized for fine-grained pose estimation, such as gestures and hand movements, beyond mere localization. Importantly, we aim to develop methods that are more acceptable by users, particularly for the aging population, ensuring our solutions are both effective and sensitive to the privacy and usability needs of this demographic.
 
-Research Output: [<a href="https://arxiv.org/abs/2311.10601">ICRA'2024c</a>], [<a href="https://arxiv.org/abs/2305.10345">NeurIPS’2023
+Research Output: [<a href="https://arxiv.org/abs/2403.09871">ThermoHands</a>], [<a href="https://arxiv.org/abs/2311.10601">ICRA'2024c</a>], [<a href="https://arxiv.org/abs/2305.10345">NeurIPS’2023
 </a>], [<a href="http://arxiv.org/abs/2207.07859">Patterns'2023</a>], [<a href="https://www.pure.ed.ac.uk/ws/portalfiles/portal/327349383/Human_Parsing_WANG_DOA20012023_AFV_CC_BY.pdf">UbiComp'2023</a>], [<a href="http://arxiv.org/abs/2111.03976">IoT-J'2023</a>], [<a href="https://arxiv.org/pdf/2207.07896.pdf">UbiComp'2022</a>], [<a href="https://arxiv.org/pdf/2208.14326.pdf">IoT-J'2022</a>],[<a href="https://arxiv.org/abs/2103.01055">ICCV'2021</a>], [<a href="https://ieeexplore.ieee.org/document/8937008">TMC'2021</a>], [<a href="https://ieeexplore.ieee.org/document/9547669">TNNLS'2021</a>], [<a href="https://doi.org/10.1109/ICRA40945.2020.9197437">ICRA'2020</a>], [<a href="https://ieeexplore.ieee.org/document/8402111">TMC'2019</a>], [<a href="https://doi.org/10.1609/aaai.v33i01.33018009">AAAI'2019</a>], [<a href="https://doi.org/10.1109/DCOSS.2019.00028">DCOSS'2019</a>], [<a href="http://arxiv.org/abs/1802.02209">AAAI'2018</a>], [<a href="http://www.cs.ox.ac.uk/files/10769/%5BMobiCom2018%5Demr_slam.pdf">MobiCom'2018</a>], [<a href="https://doi.org/10.1109/TWC.2015.2487963">TWC'2016</a>]
 
 ---
