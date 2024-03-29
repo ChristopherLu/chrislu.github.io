@@ -12,12 +12,12 @@ navigation_weight: 50
 ---
 ## **POSTDOC POSITION**
 
-I have one PostDoc position in scaling visual language models to resource-constrained platforms. Please contact me with your publication list and latest CV.
+I have one PostDoc opening in scaling visual language models to resource-constrained platforms. Please contact me with your publication list and latest CV.
 
 ---
 ## **PHD POSITION**
 
-I constantly recruit 1-2 PhD students at UCL. Please contact me if you are interested. 
+I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
 
 ---
 ## **VISITOR POSITION**
@@ -27,4 +27,4 @@ We regularly accept exceptional visiting PhD students who have strong publicatio
 ---
 ## **INTERNSHIP POSITION**
 
-NO. We do NOT take ANY interns at UCL. Please do NOT email me about the internship opportunity.
+NO. We do NOT take ANY interns. Please do NOT email me about the internship opportunity.
