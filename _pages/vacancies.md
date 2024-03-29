@@ -4,27 +4,27 @@ permalink: /vacancies/
 title: vacancies
 #description: current openings in MAPS Lab
 nav: false
-navigation_weight: 40
+navigation_weight: 50
 ---
 
-*Last update: 15th July, 2022*
+*Last update: 29 March, 2024*
 
 ---
 ## **POSTDOC POSITION**
 
-Currently we do not have any opennings.
+I have one PostDoc position in scaling visual language models to resource-constrained platforms. Please contact me with your publication list and latest CV.
 
 ---
-## **PHD/MSCR POSITION**
+## **PHD POSITION**
 
-Currently we do not have any open PhD or master by research (MScR) positions. 
+I constantly recruit 1-2 PhD students at UCL. Please contact me if you are interested. 
 
 ---
 ## **VISITOR POSITION**
 
-We regularly accept exceptional visiting scholars who have strong publication record in top venues regarding sensing, robotics and computer vision. If you are interested in visiting us, please send us a description of your research and your publication list.
+We regularly accept exceptional visiting PhD students who have strong publication record in top venues about sensing, robotics and computer vision. If you are interested in visiting us, please send us a description of your research and your publication list. Please read [here](https://www.ucl.ac.uk/prospective-students/international/study-abroad-and-exchange/visiting-research-students) if you are interested. Note, we cannot provide financial assistance for visiting students. 
 
 ---
 ## **INTERNSHIP POSITION**
 
-We can only take interns who are students in the School of Informatics, University of Edinburgh. 2nd- or 3rd-year UG students from the School of Informatics are encouraged to drop me an email around May (every year) to discuss the summer internship opportunities.
+NO. We do NOT take ANY interns at UCL. Please do NOT email me about the internship opportunity.

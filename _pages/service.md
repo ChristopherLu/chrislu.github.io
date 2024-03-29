@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: service
 #description: 
-nav: true
+nav: false
 navigation_weight: 30
 ---
 
