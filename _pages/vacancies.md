@@ -3,7 +3,7 @@ layout: page
 permalink: /vacancies/
 title: vacancies
 #description: current openings in MAPS Lab
-nav: false
+nav: true
 navigation_weight: 50
 ---
 
