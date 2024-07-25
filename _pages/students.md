@@ -21,9 +21,6 @@ navigation_weight: 40
 <section>
   <h4>PhD Students</h4>
   <ul>
-        <!-- <li>
-            <a href="https://ramdrop.github.io/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2020 - present (Co-supervised with Xiaowei Huang)
-        </li> -->
         <li>
             <a href="https://toytiny.github.io/"  target="_blank"><strong>Fangqiang Ding</strong></a>. Fall 2021 - present
         </li>
@@ -32,6 +29,9 @@ navigation_weight: 40
         </li>
         <li>
             <a href="https://tsagkas.github.io/"  target="_blank"><strong>Nikolas Tsagkas</strong></a>. Fall 2022 - present
+        </li>
+        <li>
+            <a href="https://christopherlu.github.io/"  target="_blank"><strong>Zhekai Duan</strong></a>. Fall 2024 - present
         </li>  
   </ul>
 </section>
@@ -45,7 +45,7 @@ navigation_weight: 40
   </ul>
 </section>
 
-<section>
+<!-- <section>
   <h4> Undergraduate Students </h4>
   <ul>
         <li>
@@ -64,7 +64,7 @@ navigation_weight: 40
             <strong>Xinyuan Cui</strong>. Summer 2023 - present
         </li>
   </ul>
-</section>
+</section> -->
 
 <!-- <section>
   <h4> Research Visitor </h4>
@@ -79,6 +79,9 @@ navigation_weight: 40
 <section>
   <h4>Alumni</h4>
   <ul>
+        <li>
+            <strong>Lawrence Zhu</strong>. BSc. w. Distinction, 2022-2023. Now: Georgia Institute of Technology.
+        </li>
         <li>
             <strong>Ivan Zhong</strong>. BSc. w. Distinction, 2022-2023. Now: U of Cambridge.
         </li>
