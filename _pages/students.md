@@ -9,14 +9,14 @@ navigation_weight: 40
 
 **I lead the [Mobile Autonomy, Perception and Sensing (MAPS)](https://maps-lab.github.io/) Lab at the University of Edinburgh. I am fortunate to work or have worked with the following members:** 
 
-<section>
+<!-- <section>
   <h4> PostDoc </h4>
   <ul>
         <li>
             <a href="https://www.csc.liv.ac.uk/~ramdrop/"  target="_blank"><strong>Kaiwen Cai</strong></a>. Fall 2023 - present
         </li>
   </ul>
-</section>
+</section> -->
 
 <section>
   <h4>PhD Students</h4>
@@ -80,7 +80,10 @@ navigation_weight: 40
   <h4>Alumni</h4>
   <ul>
         <li>
-            <strong>Lawrence Zhu</strong>. BSc. w. Distinction, 2022-2023. Now: Georgia Institute of Technology.
+            <strong>Kaiwen Cai</strong>. PhD, 2020-2024. Now: Li Auto Inc.
+        </li>
+        <li>
+            <strong>Lawrence Zhu</strong>. BSc. w. Distinction, 2023-2024. Now: Georgia Institute of Technology.
         </li>
         <li>
             <strong>Ivan Zhong</strong>. BSc. w. Distinction, 2022-2023. Now: U of Cambridge.
