@@ -18,13 +18,15 @@ social: true  # includes social icons at the bottom of the page
 navigation_weight: 10
 ---
 
-I am an Associate Professor in Robotics and AI at the Department of Computer Science, University College London (UCL). I delve into the dynamic field of **spatial AI**. My expertise encompasses developing autonomous vehicles and mixed/augmented reality (MR/AR) and IoT devices using AI methods, with a keen focus on elevating their spatial perception ability in 3D environments. My research unfolds across three pivotal dimensions:
-1. **Pose Estimation** – Determining the orientation and position of moving agents in the wild.
-2. **Mapping and Reconstruction** – Creating generalisable and expressive representations of environments.
-3. **Scene Understanding** – Interpreting and making sense of complex and dynamic scenes on-the-fly.
+I am an Associate Professor in Robotics and AI at the Department of Computer Science, University College London (UCL). My research centers on **Scaling Foundation Models for Embodied AI**, leveraging recent advancements in AI and machine learning to adapt foundation models for real-world applications. These models offer unparalleled context-awareness in a zero-shot manner, enabling intelligent behavior without task-specific training. My work addresses the significant challenges of deploying these foundation models in diverse and unpredictable environments, focusing on three key areas:
 
-At the core of my research is tackling real-world **robustness** challenges imposed on spatial perception. This includes overcoming hurdles like visual degradation, GPS denial, navigating the limitations of available resources, and handling unpredictable, out-of-distribution samples. Discover more about my research projects on my [research page](https://christopherlu.github.io/research/).
+1. **Generalization Across Sensors** – Ensuring robust performance of AI models across various sensors used by different agents.
+.
+2. **Computational Efficiency** – Optimizing foundation models to run effectively on limited hardware resources.
 
+3. **Human-Machine Interaction** – Facilitating seamless and intuitive interactions between AI systems, human users, and other machines..
+
+At the core of my research is the mission to enable embodied AI systems to operate reliably in real-world settings. Discover more about my research projects on my [research page](https://christopherlu.github.io/research/).
 
 Before coming to UCL, I was a faculty member at the University of Edinburgh and University of Liverpool. I did both my PhD study and post-doctoral in the Department of Computer Science, University of Oxford. Even earlier, I received my M.Eng degree from Nanyang Technological University (NTU). 
 
