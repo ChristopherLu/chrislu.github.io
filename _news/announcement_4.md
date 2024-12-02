@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-26
+date: 2024-12-02
 inline: true
 ---
 
-🎉 One papers accepted to [NeurIPS-2024](https://neurips.cc/). Stay tuned for the code and video release. See you in Vancouver, Canada.
+🔍 We have an EPSRC-DTP PhD studentship on multi-modal visual-language-action model for robotic manipulation. Find more details on the [vacancies page](https://christopherlu.github.io/vacancies/).
 
