@@ -7,7 +7,7 @@ nav: true
 navigation_weight: 50
 ---
 
-*Last update: 29 March, 2024*
+*Last update: 02 December, 2024*
 
 ---
 ## **POSTDOC POSITION**
@@ -18,6 +18,8 @@ I have one PostDoc opening in scaling visual language models to resource-constra
 ## **PHD POSITION**
 
 I constantly recruit 1-2 PhD students every year. Please contact me if you are interested. 
+
+02/12/2024 Update: We have an EPSRC-DTP PhD studentship on multi-modal visual-language-action model for robotic manipulation. Find more details about the project [here](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1518.html) and the application instruction [here](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship). Application Deadline: 13:00 UK time on 28 Jan 2025. 
 
 ---
 ## **VISITOR POSITION**
